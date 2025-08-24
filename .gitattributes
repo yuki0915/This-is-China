@@ -1,0 +1,7 @@
+# 自动处理行尾
+* text=auto
+
+# 针对特定类型文件
+*.jpg binary
+*.png binary
+*.sh text eol=lf
